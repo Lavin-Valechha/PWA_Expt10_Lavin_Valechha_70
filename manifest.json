@@ -1,0 +1,22 @@
+{
+  "name": "Amazon-like Goods Selling Website",
+  "short_name": "Amazon Goods",
+  "description": "An Amazon-like Goods Selling Website",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/image/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/image/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "splash_pages": null
+}
